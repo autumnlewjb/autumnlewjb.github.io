@@ -3907,3 +3907,13 @@ input, select, textarea {
 			}
 
 		}
+
+a .second{
+	display: none;
+}
+a:hover .first{
+	display: none;
+}
+a:hover .second{
+	display: inline;
+}
