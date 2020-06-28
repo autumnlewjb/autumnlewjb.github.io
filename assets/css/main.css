@@ -3908,12 +3908,12 @@ input, select, textarea {
 
 		}
 
-a .check{
+a .second{
 	display: none;
 }
-a:hover .repo{
+a:hover .first{
 	display: none;
 }
-a:hover .check{
+a:hover .second{
 	display: inline;
 }
