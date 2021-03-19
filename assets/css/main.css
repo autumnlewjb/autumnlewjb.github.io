@@ -3049,6 +3049,7 @@ input, select, textarea {
 			justify-content: center;
 			width: 50em;
 			-ms-flex: 1;
+			flex: 1;
 		}
 
 			.spotlights > section > .content > .inner {
@@ -3916,4 +3917,9 @@ a:hover .first{
 }
 a:hover .second{
 	display: inline;
+}
+
+.special-table {
+	background-color: transparent !important;
+	border: none;
 }
